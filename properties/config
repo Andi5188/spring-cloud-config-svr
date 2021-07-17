@@ -1,0 +1,9 @@
+server.servlet.context-path=/config
+server.port=8099
+
+user.userName=test
+user.sex=man
+user.age=18
+
+author.name=wlg-test
+author.height=174
